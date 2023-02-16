@@ -1,0 +1,3 @@
+[submodule "MHO-FrontEnd"]
+	path = MHO-FrontEnd
+	url = https://github.com/jplsanchez/MHO-FrontEnd
